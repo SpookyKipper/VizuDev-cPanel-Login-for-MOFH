@@ -5,6 +5,7 @@
   document.open();
   document.write(newpage);
    document.close();
+      console.clear();
 
 }
 
