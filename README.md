@@ -1,3 +1,31 @@
+# Just use this thank you: https://github.com/VizuDev/cPanel-Login-for-MOFH
+# It's the same thing but that one doesn't have my branding
+# Mine is a fork of that
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 # cPanel Login for MOFH  
 cPanel Login for MOFH is a login/signup template using cPanel design to bring the cPanel experience to your reseller.  
 
